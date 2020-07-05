@@ -1,8 +1,0 @@
-function game = orlyanka(n)
-p = 0.5;% На случай, если захочу изменить
-coin_resoults = bernrnd(p,n);
-S_n = tril(repmat(coin_resoults,[n,1]));
-
-
-end
-
