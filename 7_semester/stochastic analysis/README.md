@@ -2,7 +2,7 @@
 ## Новости
 
 + (06.07.2020) Сделал [первое задание](https://github.com/KotikNikita/University/tree/stoxan/7_semester/stochastic%20analysis/Task_1)
-    :white_check_mark: на matlab
+    - на matlab
 ~~Я просто учусь писать README тут~~
 __Жирный я (bold)__
 :white_check_mark: Это уже сделано    
