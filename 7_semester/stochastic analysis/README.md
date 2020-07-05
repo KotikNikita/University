@@ -1,4 +1,4 @@
 # University
 MSU tasks
 
-The directory contains practical tasks.
+Stochastic analysis. Task 1 completed.
