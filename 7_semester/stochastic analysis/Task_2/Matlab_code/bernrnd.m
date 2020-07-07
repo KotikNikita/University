@@ -4,4 +4,3 @@ if (p>1) || (p<0)
 end
 x = rand(varargin{:}) < p;
 end
-
