@@ -1,4 +1,5 @@
 # University
 MSU tasks
 
-Here is only tasks from MSU.
+Only tasks from MSU(SA)
+

@@ -1,0 +1,11 @@
+function p_value = pirson_criterion_pois(sample,lambda)
+    [unic_data,~,ic] = unique(sample);
+    k = length(unic_data);
+    n = length(sample);
+    sample_counts = accumarray(ic,1);
+    value_counts = [unic_data',sample_counts];
+    expected_p = poisdf(lambda,unic_data');
+    xi_sqr = sum(((sample_counts - n*poisdf(lambda,unic_data')).^2)./poisdf(lambda,unic_data'));
+    degrees_of_freedom
+end
+
